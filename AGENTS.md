@@ -1,0 +1,3 @@
+# HealingMart mandatory typography rule
+
+Read [global font policy](https://github.com/healingmart/healingmart-cloudflare-guide-test/blob/policy/pretendard-20261028/FONT_POLICY.md). Use self-hosted Pretendard Variable (OFL) for Korean/English; use only license-verified self-hosted Noto Sans variants for other languages. Never introduce paid, undocumented, or OS-proprietary fonts (Malgun Gothic/맑은 고딕, Arial, Segoe UI, Apple SD Gothic Neo, Consolas, Georgia, Times New Roman). Preserve font licenses and run a build/deployment font audit; no external CDN-only fonts. Do not deploy production or start GitHub Actions for this policy rollout.

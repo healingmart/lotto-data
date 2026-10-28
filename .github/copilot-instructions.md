@@ -1,0 +1,2 @@
+# HealingMart Copilot instructions
+Mandatory: read AGENTS.md and [font policy](https://github.com/healingmart/healingmart-cloudflare-guide-test/blob/policy/pretendard-20261028/FONT_POLICY.md). Pretendard Variable (self-hosted, OFL) is default; Noto Sans variants require exact verified licenses. Never use paid/unknown/OS-owned fonts, and require font audit before deployments. No font CDN-only loading. Do not bypass checks or launch deployments.
